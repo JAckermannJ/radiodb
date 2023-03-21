@@ -549,6 +549,29 @@
       "mp3Stream": "http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE50.png"
+    },
+    {
+      "id": "DE51",
+      "name": "80s80s Radio",
+      "country": "Deutschland",
+      "description": "80er Jahre Best of",
+      "genre": "Pop, Rock, Oldies",
+      "frequency": 0.0,
+      "mp3Stream": "https://streams.80s80s.de",
+      "aacStream": "",
+      "imageUrl": "https://images.80s80s.de/files/2020-04/2560-x-1440.jpg"
+    },
+    {
+      "id": "DE52",
+      "name": "80s80s - DarkWave",
+      "country": "Deutschland",
+      "description": "Dark Wave der 80er",
+      "genre": "Metal, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://streams.80s80s.de/darkwave/mp3-192",
+      "aacStream": "",
+      "imageUrl": "https://images.80s80s.de/files/2023-01/80s80s_dark-wave_16x9_0.png"
     }
+    
   ]
 }
